@@ -5,7 +5,7 @@
  */
 
 // Colors.
-$positive: #387ef5;
+$positive: #00CC99;
 
 // Setting the default button to button-outline.
 $button-default-bg: transparent;
@@ -28,4 +28,8 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 .button.activated {
   box-shadow: none;
   color: #fff;
+}
+
+.bar-side-menu {
+  background-color: blue;
 }
